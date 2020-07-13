@@ -1,0 +1,6 @@
+module Pods_TogetherInterview {
+  umbrella header "Pods-TogetherInterview-umbrella.h"
+
+  export *
+  module * { export * }
+}
